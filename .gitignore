@@ -2,3 +2,7 @@
 /.git
 del.sh
 set.sh
+/venv
+/.git
+del.sh
+set.sh
